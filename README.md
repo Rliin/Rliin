@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Burkay 👋
 
-<!--
-**Rliin/Rliin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like Lemons 🍋
+I'm a software developer with a background in Electrical and Electronics Engineering. I enjoy building intuitive and efficient web applications using modern technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: JavaScript, TypeScript, C#
+- **Frontend**: React, Next.js, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Working On
+- Expanding my experience with full-stack projects
+- Developing a new Social Media Platform
+- Building personal projects
+
+## 💼 Experience
+- 🌐 Working in a SCADA web software company (React, JavaScript)
+- 💻 Worked in a video game company (Unity, C#)
+
+## 🎮 Hobbies
+When I'm not coding, I enjoy strategy games like Cities: Skylines, Crusader Kings III, and Hearts of Iron IV.
+
+- Portfolio: [burkay](https://burkay.vercel.app)
+
+Thanks for stopping by!
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rliin&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rliin&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rliin&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rliin&icon=0&color=0)](https://visitcount.itsvg.in)
